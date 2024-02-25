@@ -3,7 +3,7 @@ package edu.badpals.Bicicleta;
 public class Bicicleta {
     private final int id;
 
-    Bicicleta(int id){
+    public Bicicleta(int id){
         this.id = id;
     }
 

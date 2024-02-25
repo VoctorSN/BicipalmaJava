@@ -1,2 +1,6 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏÛÜ8…Ÿñİ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏÛÜ8·ËÂŞ1
+^
+java:S1117/"<Rename "anclajes" which hides the field declared at line 10.(üÚÎíúÿÿÿÿ8ÛËÂŞ1
+G
+java:S1172D"*Remove this unused method parameter "par".(”´é„8ßËÂŞ1

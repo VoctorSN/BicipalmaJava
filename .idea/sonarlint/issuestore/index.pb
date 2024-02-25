@@ -32,3 +32,5 @@ Q.idea/sonarlint/securityhotspotstore/0/1/0110b91ab811a2955b9804e9a1de02fd5b7376
 Q.idea/sonarlint/securityhotspotstore/e/6/e63fd900507bb25c995ed61c63e8835856b972cb,c\2\c27c87c006f525a4e960d1e6994e8ff9a377feb4
 Å
 Q.idea/sonarlint/securityhotspotstore/e/6/e64875c5d058a05f17a9a00f9cdf0f235796be1f,5\4\544b99f95180d8837b279865f169153111a98421
+d
+4src/test/java/edu/badpals/Estacion/EstacionTest.java,e\1\e10f5d1bc75c18131a328312422a5b8f3aaada16

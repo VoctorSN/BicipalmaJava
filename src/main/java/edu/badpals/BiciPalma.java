@@ -1,8 +1,8 @@
-package appalma;
+package edu.badpals;
 
-import bicicleta.Bicicleta;
-import estacion.Estacion;
-import tarjetaUsuario.TarjetaUsuario;
+import edu.badpals.Bicicleta.*;
+import edu.badpals.Estacion.*;
+import edu.badpals.TarjetaUsuario.*;
 
 public class BiciPalma {
 
@@ -29,8 +29,8 @@ public class BiciPalma {
 		System.out.println("\n **** caso TEST anclar bicicleta(s) **** \n");
 		
 		int[] bicicletas = {291, 292, 293, 294};
-		
-		/* // generar anclaje random 
+
+		/* // generar anclaje random
 		for (int i: bicicletas){
 			System.out.println( estacion.generarAnclaje());
 		}
@@ -55,7 +55,7 @@ public class BiciPalma {
 		
 		TarjetaUsuario tarjetaUsuario = new TarjetaUsuario("000456789", true);
 		
-		System.out.println("¿tarjeta de usuario activada? (true/false): " + estacion.leerTarjetaUsuario(tarjetaUsuario) );
+		System.out.println("¿tarjeta de usuario activada? (true/false): " + estacion.leerTarjetaUsuario(tarjetaUsuario, true) );
 		
 		estacion.retirarBicicleta(tarjetaUsuario);
 		
