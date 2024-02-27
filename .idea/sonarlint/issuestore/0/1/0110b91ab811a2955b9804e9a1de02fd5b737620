@@ -1,4 +1,10 @@
 
 4
-java:S1700"Rename field "anclajes"(ãº°Ÿ8ÙÆ‘ÿİ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏÛÜ8ÚÆ‘ÿİ1
+java:S1700"Rename field "anclajes"(ãº°Ÿ8ÉÁ´ÕŞ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏÛÜ8ÉÁ´ÕŞ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÕÁ´ÕŞ1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ÕÁ´ÕŞ1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ÕÁ´ÕŞ1

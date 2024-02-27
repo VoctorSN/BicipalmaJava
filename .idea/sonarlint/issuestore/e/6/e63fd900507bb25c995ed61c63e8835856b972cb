@@ -1,6 +1,16 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏÛÜ8·ËÂŞ1
-^
-java:S1117/"<Rename "anclajes" which hides the field declared at line 10.(üÚÎíúÿÿÿÿ8ÛËÂŞ1
-G
-java:S1172D"*Remove this unused method parameter "par".(”´é„8ßËÂŞ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏÛÜ8§¹ÔÔŞ1
+G	java:S106'"+Replace this use of System.out by a logger.(¿è®Î8³¹ÔÔŞ1
+8
+java:S3626<"Remove this redundant jump.(ûÁİ…8µ¹ÔÔŞ1
+L	java:S106:"+Replace this use of System.out by a logger.(Ÿ§Øîøÿÿÿÿ8·¹ÔÔŞ1
+\
+java:S1612F"?Replace this lambda with method reference 'Anclaje::isOcupado'.(‘äâ„8¸¹ÔÔŞ1
+L	java:S106K"+Replace this use of System.out by a logger.(ÏÙ†ıúÿÿÿÿ8¹¹ÔÔŞ1
+G	java:S106N"+Replace this use of System.out by a logger.(¯¼ÆÚ8¹¹ÔÔŞ1
+G	java:S106S"+Replace this use of System.out by a logger.(™‰Ïí8¹¹ÔÔŞ1
+N
+java:S1602]",Remove useless curly braces around statement(ßìòøÿÿÿÿ8º¹ÔÔŞ1
+L	java:S106]"+Replace this use of System.out by a logger.(ßìòøÿÿÿÿ8»¹ÔÔŞ1
+U
+java:S1144!"3Remove this unused private "numeroAnclajes" method.(¨¤­Õşÿÿÿÿ8»¹ÔÔŞ1

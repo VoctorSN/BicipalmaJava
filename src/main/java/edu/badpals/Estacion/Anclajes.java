@@ -2,6 +2,10 @@ package edu.badpals.Estacion;
 
 import edu.badpals.Bicicleta.Bicicleta;
 
+import java.util.Arrays;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
+
 public class Anclajes {
 
     private final Anclaje[] anclajes;
@@ -28,8 +32,8 @@ public class Anclajes {
     }
 
     private void crearAnclajes() {
-        for (int i = 0; i < anclajes.length; i++) {
-            this.anclajes[i] = new Anclaje();
+        for (int i=0;i<anclajes.length;i++){
+            anclajes[i] = new Anclaje(i+1);
         }
     }
 
@@ -41,7 +45,17 @@ public class Anclajes {
         return anclajes[anclaje].getBici();
     }
 
+    Bicicleta getBici(Anclaje anclaje){
+        return anclaje.getBici();
+    }
+
     boolean isAnclajeOcupado(int anclaje){
         return anclajes[anclaje].isOcupado();
     }
+
+    @Override
+    public String toString(){
+        return "Numero de anclajes: " + this.numAnclajes();
+    }
+
 }

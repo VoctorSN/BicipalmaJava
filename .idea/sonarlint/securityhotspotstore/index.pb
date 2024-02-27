@@ -32,5 +32,11 @@ Q.idea/sonarlint/securityhotspotstore/0/1/0110b91ab811a2955b9804e9a1de02fd5b7376
 Q.idea/sonarlint/securityhotspotstore/e/6/e63fd900507bb25c995ed61c63e8835856b972cb,c\2\c27c87c006f525a4e960d1e6994e8ff9a377feb4
 Å
 Q.idea/sonarlint/securityhotspotstore/e/6/e64875c5d058a05f17a9a00f9cdf0f235796be1f,5\4\544b99f95180d8837b279865f169153111a98421
+f
+6src/test/java/edu/badpals/Bicicleta/BicicletaTest.java,c\8\c8e41e21d003cf7b34e8821004455f04f9be34ab
+c
+3src/test/java/edu/badpals/Estacion/AnclajeTest.java,7\c\7cc8d680f5b1ff408b5561f498cdce4f3d6639e6
+d
+4src/test/java/edu/badpals/Estacion/AnclajesTest.java,6\8\681f773e531b564b63108ffd927d3b37f54c57c1
 d
 4src/test/java/edu/badpals/Estacion/EstacionTest.java,e\1\e10f5d1bc75c18131a328312422a5b8f3aaada16
